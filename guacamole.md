@@ -9,4 +9,4 @@
 	0.50 Fr.
 
 ## Instructions
-
+* put one avocado into a bowl.
